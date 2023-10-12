@@ -1,4 +1,4 @@
-# Commonlit2  21th place solution
+# Commonlit2  　21th place solution🥈
 [link](https://www.kaggle.com/competitions/commonlit-evaluate-student-summaries/overview)
 
 ## Task
@@ -48,7 +48,7 @@ MCRMSE
 ## Final Submission
 sub = (exp055*.4 + exp084*.6)*.7 + (exp004+lgbm)*.3
 
-21 / 2106 位
+21 / 2106 位　🥈
 
 CV : 0.4777
 
